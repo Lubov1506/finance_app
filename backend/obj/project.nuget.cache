@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CT1JKJKVmMM=",
+  "dgSpecHash": "xUQ328aopRA=",
   "success": true,
-  "projectFilePath": "D:\\dev\\c#\\web_project\\mywebapp.api\\mywebapp.api.csproj",
+  "projectFilePath": "D:\\dev\\c#\\web_project\\mywebapp.api\\backend\\mywebapp.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lubap\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\lubap\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",

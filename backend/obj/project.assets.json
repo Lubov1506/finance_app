@@ -1071,11 +1071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\c#\\web_project\\mywebapp.api\\mywebapp.api.csproj",
+      "projectUniqueName": "D:\\dev\\c#\\web_project\\mywebapp.api\\backend\\mywebapp.api.csproj",
       "projectName": "mywebapp.api",
-      "projectPath": "D:\\dev\\c#\\web_project\\mywebapp.api\\mywebapp.api.csproj",
+      "projectPath": "D:\\dev\\c#\\web_project\\mywebapp.api\\backend\\mywebapp.api.csproj",
       "packagesPath": "C:\\Users\\lubap\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\c#\\web_project\\mywebapp.api\\obj\\",
+      "outputPath": "D:\\dev\\c#\\web_project\\mywebapp.api\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lubap\\AppData\\Roaming\\NuGet\\NuGet.Config"
